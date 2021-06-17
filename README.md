@@ -17,4 +17,4 @@ and represent it visually.**
 
 **2. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)**
 
-**Dataset : india-news-headlines.csv (For textual data) and Stocks.csv (For historical data of stocks)**
+**Dataset : https://bit.ly/36fFPI6 (For textual data) and Stocks.csv (For historical data of stocks)**
